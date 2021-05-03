@@ -1,0 +1,16 @@
+.deals{
+    text-align: center;
+}
+
+.deals h2{
+    margin: 20px;
+}
+
+.deals-container{
+    padding: 100px 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+

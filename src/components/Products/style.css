@@ -1,0 +1,39 @@
+
+.card-container{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+  
+}
+
+.card{
+    margin: 20px;
+    flex-basis: 300px;
+}
+
+.product-img{
+    margin: 20px;
+    width: 250px;
+    height: 200px;
+}
+
+.btn{
+    margin-top:5%;
+    background-color: #FF7E62;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: 0.3s ease;
+    border: 1px solid black;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.btn:hover{
+    background-color: white;
+    color:#FF7E62 ;
+    border: 1px solid #FF7E62;
+}

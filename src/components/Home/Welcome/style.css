@@ -1,0 +1,26 @@
+.welcome{
+    padding: 200px 200px;
+    text-align: center;
+    background-color:#FF7E62;
+    color: white;
+    transition: 0.7s ease;
+}
+
+.welcome:hover{
+    background-color: white;
+    color: #FF7E62;
+}
+
+.welcome h1{
+    font-size: 50px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    font-family: fantasy;
+}
+
+.welcome p{
+    font-size: 20px;
+    line-height: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
