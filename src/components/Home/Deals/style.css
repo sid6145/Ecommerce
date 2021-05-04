@@ -6,6 +6,11 @@
     margin: 20px;
 }
 
+.deal-items img{
+    width: 200px;
+    height: 200px;
+}
+
 .deals-container{
     padding: 100px 100px;
     display: flex;
